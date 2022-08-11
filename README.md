@@ -1,5 +1,5 @@
 # CMPG_323_Overview_-_34729100
-## Repsitory
+## Repositories
 <ul>
   <li>CMPG_323_Overview_-_34729100</li>
   <li>CMPG_323_Project_2_-_34729100</li>

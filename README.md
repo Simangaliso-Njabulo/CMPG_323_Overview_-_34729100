@@ -8,5 +8,7 @@
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
 ## References
-https://youtu.be/gW6dFpTMk8s
-https://youtu.be/Bg8tiOLZw4A
+<ul>
+  <li>https://youtu.be/gW6dFpTMk8s</li>
+  <li>https://youtu.be/Bg8tiOLZw4A</li>
+</ul>

@@ -8,7 +8,7 @@
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
 
-![Context_Diagram](/Pic/Context_Diagram.png)
+![Context_Diagram](/Pic/Context_Diagram.jpg)
 
 ## References
 <ul>

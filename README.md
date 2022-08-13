@@ -15,8 +15,8 @@
 
 ## References
 <ul>
-  <li>https://youtu.be/gW6dFpTMk8s</li>
-  <li>https://youtu.be/Bg8tiOLZw4A</li>
-  <li>https://youtu.be/Ljj1wGFJqPY</li>
-  <li>https://youtu.be/f4ifdKCH7VI<li>
+  <li>https://youtu.be/gW6dFpTMk8s
+  <li>https://youtu.be/Bg8tiOLZw4A
+  <li>https://youtu.be/Ljj1wGFJqPY
+  <li>https://youtu.be/f4ifdKCH7VI</li>
 </ul>

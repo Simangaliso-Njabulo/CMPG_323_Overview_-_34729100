@@ -7,7 +7,8 @@
   <li>CMPG_323_Project_4_-_34729100</li>
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
-![Context Diagram](Context_Diagram.png)
+![Context_Diagram](/Pic/Context_Diagram.png)
+
 ## References
 <ul>
   <li>https://youtu.be/gW6dFpTMk8s</li>

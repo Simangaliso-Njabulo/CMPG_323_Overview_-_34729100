@@ -7,7 +7,7 @@
   <li>CMPG_323_Project_4_-_34729100</li>
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
-![Context Diagram](https://raw.githubusercontent.com/Simangaliso-Njabulo/CMPG_323_Overview_-_34729100/main/Context_Diagram.png)
+![Context Diagram](Context_Diagram.png)
 ## References
 <ul>
   <li>https://youtu.be/gW6dFpTMk8s</li>

@@ -7,6 +7,7 @@
   <li>CMPG_323_Project_4_-_34729100</li>
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
 ## References
 <ul>
   <li>https://youtu.be/gW6dFpTMk8s</li>

@@ -8,6 +8,9 @@ This project will make use of 5 repositories, an overview repo which is created 
 
 #
 
+## Branching Strategy
+The github branching strategy will be utelized for all of the projects since I will be working on them individually. In each of the project repositories I will create a development branch and that branch will push directly to the main branch of that particular project. Since development is directly linked to the main there is no need for a hot fix branch.  
+
 ## Repositories
 <ul>
   <li>CMPG_323_Overview_-_34729100</li>

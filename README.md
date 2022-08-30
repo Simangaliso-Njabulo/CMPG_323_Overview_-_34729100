@@ -18,8 +18,8 @@ I will utilize a gitingore for each of my respective project. In this gitignore 
 
 ## Repositories
 <ul>
-  <li>CMPG_323_Overview_-_34729100</li>
-  <li>CMPG_323_Project_2_-_34729100</li>
+  <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Overview_-_34729100">CMPG_323_Overview_-_34729100</a></p></li> 
+  <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_2_-_34729100">CMPG_323_Project_2_-_34729100</a></p></li> 
   <li>CMPG_323_Project_3_-_34729100</li>
   <li>CMPG_323_Project_4_-_34729100</li>
   <li>CMPG_323_Project_5_-_34729100</li>
@@ -34,10 +34,10 @@ Late entry - On ... I made a local database and created simple API to see how ev
 
 ## References
 <ul>
-  <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p>
-  <li><p><a href="https://youtu.be/Bg8tiOLZw4A">Branching Strategies on Git | Real-time Git Branching Strategy for a DevOps project</a></p>
-  <li><p><a href="https://youtu.be/Ljj1wGFJqPY">3 Methods for Adding Images to GItHub README Files</a></p>
-  <li><p><a href="https://youtu.be/f4ifdKCH7VI">Resize image in Github - README.md</a></p>
-  <li><p><a href="https://zellwk.com/blog/gitignore/">Learn more about gitignore file</a></p>
-  <li><p><a href="https://youtu.be/JDRixckApxM">Introduction to Azure Key Vault</a></p>
+  <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p></li> 
+  <li><p><a href="https://youtu.be/Bg8tiOLZw4A">Branching Strategies on Git | Real-time Git Branching Strategy for a DevOps project</a></p></li> 
+  <li><p><a href="https://youtu.be/Ljj1wGFJqPY">3 Methods for Adding Images to GItHub README Files</a></p></li> 
+  <li><p><a href="https://youtu.be/f4ifdKCH7VI">Resize image in Github - README.md</a></p></li> 
+  <li><p><a href="https://zellwk.com/blog/gitignore/">Learn more about gitignore file</a></p></li> 
+  <li><p><a href="https://youtu.be/JDRixckApxM">Introduction to Azure Key Vault</a></p></li> 
 </ul>

@@ -25,6 +25,13 @@ I will utilize a gitingore for each of my respective project. In this gitignore 
   <li>CMPG_323_Project_5_-_34729100</li>
 </ul>
 
+## Project 2 Notes: 
+### 30/08/22
+Today I will be creating my azure database and connecting it to my API.
+
+Late entry - On ... I made a local database and created simple API to see how everything works. I also created a resource group on MS Azure tried creating the database aswell but I ran into some problems. Unfortunatly I just fogot to update my readme. 
+
+
 ## References
 <ul>
   <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p>

@@ -29,8 +29,7 @@ I will utilize a gitingore for each of my respective project. In this gitignore 
 ### 30/08/22
 Today I will be creating my azure database and connecting it to my API.
 
-Late entry - On ... I made a local database and created simple API to see how everything works. I also created a resource group on MS Azure tried creating the database aswell but I ran into some problems. Unfortunatly I just fogot to update my readme. 
-
+Late update - On Saturday 27/08/22 I made a local database and created a simple API to see how everything works. I also created a resource group on MS Azure and tried to create the database, but I ran into some problems. Unfortunately, I forgot to update my readme.
 
 ## References
 <ul>

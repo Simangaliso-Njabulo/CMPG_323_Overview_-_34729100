@@ -31,6 +31,9 @@ Today I will be creating my Azure database and connecting it to my API.
 
 Late update - On Saturday 27/08/22 I made a local database and created a simple API to see how everything works. I also created a resource group on MS Azure and tried to create the database, but I ran into some problems. Unfortunately, I forgot to update my readme.
 
+### 01/09/22
+Things are looking good, I connected my Azure database to my API. Next up will be creating all my methods. 
+
 ## References
 <ul>
   <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p></li> 

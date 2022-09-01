@@ -42,4 +42,5 @@ Things are looking good, I connected my Azure database to my API and created all
   <li><p><a href="https://youtu.be/f4ifdKCH7VI">Resize image in Github - README.md</a></p></li> 
   <li><p><a href="https://zellwk.com/blog/gitignore/">Learn more about gitignore file</a></p></li> 
   <li><p><a href="https://youtu.be/JDRixckApxM">Introduction to Azure Key Vault</a></p></li> 
+  <li><p><a href="https://www.guidgenerator.com/online-guid-generator.aspx">GUID generator</a></p></li> 
 </ul>

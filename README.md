@@ -34,6 +34,9 @@ Late update - On Saturday 27/08/22 I made a local database and created a simple 
 ### 01/09/22
 Things are looking good, I connected my Azure database to my API and created all my basic methods. 
 
+### 05/09/22
+On the 3rd and 4th of Sept I was completing my training hence no update was made to my read me. Today I'll be looking into Security within my API. 
+
 ## References
 <ul>
   <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p></li> 

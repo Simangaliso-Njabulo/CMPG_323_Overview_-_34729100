@@ -51,11 +51,6 @@ Today I will be attempting to fixing the errors  I encountered yesterday and com
 > API security is up and running so glad I found solutions to my errors.
 
 ## References
-
-
-</ul>
-
-## References
 <ul>
   <li><p><a href="https://youtu.be/gW6dFpTMk8s">Getting started with branching workflows, Git Flow and GitHub Flow</a></p></li> 
   <li><p><a href="https://youtu.be/Bg8tiOLZw4A">Branching Strategies on Git | Real-time Git Branching Strategy for a DevOps project</a></p></li> 

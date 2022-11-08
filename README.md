@@ -20,9 +20,9 @@ I will utilize a gitingore for each of my respective project. In this gitignore 
 <ul>
   <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Overview_-_34729100">CMPG_323_Overview_-_34729100</a></p></li> 
   <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_2_-_34729100">CMPG_323_Project_2_-_34729100</a></p></li> 
-  <li>CMPG_323_Project_3_-_34729100</li>
-  <li>CMPG_323_Project_4_-_34729100</li>
-  <li>CMPG_323_Project_5_-_34729100</li>
+  <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_3_-_34729100">CMPG_323_Project_3_-_34729100</a></p></li>
+  <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_4_-_34729100">CMPG_323_Project_4_-_34729100</a></p></li>
+  <li><p><a href="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_5_-_34729100">CMPG_323_Project_5_-_34729100</a></p></li>
 </ul>
 
 
